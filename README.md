@@ -32,17 +32,8 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=repolhofrito-dev&show_icons=true&theme=radial" alt="Estatísticas do GitHub" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=repolhofrito-dev&layout=compact&theme=radial" alt="Linguagens mais usadas" height="170" />
-</div>
-
----
-
 ### 📫 Como me encontrar
-- **E-mail:** `seu-email@exemplo.com`
+- **E-mail:** `jacquesantonygabriel@gmail.com`
 
 ---
 
