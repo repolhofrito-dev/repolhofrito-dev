@@ -1,4 +1,4 @@
-# Olá, eu sou antony👋
+# Olá, eu sou Antony👋
 
 🎓 **Estudante do 2º Ano do Ensino Médio Técnico em Internet**  
 💡 Entusiasta de tecnologia, desenvolvimento web e resolução de problemas através do código.
@@ -35,15 +35,13 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radial" alt="Estatísticas do GitHub" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=radial" alt="Linguagens mais usadas" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=repolhofrito-dev&show_icons=true&theme=radial" alt="Estatísticas do GitHub" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=repolhofrito-dev&layout=compact&theme=radial" alt="Linguagens mais usadas" height="170" />
 </div>
 
 ---
 
 ### 📫 Como me encontrar
-
-- **LinkedIn:** [Seu Nome](https://linkedin.com/in/seu-perfil) *(opcional)*
 - **E-mail:** `seu-email@exemplo.com`
 
 ---
